@@ -21864,7 +21864,7 @@ sub,sup {
 }
 
 .text-gradient {
-    background: radial-gradient(circle at 70%,#d419ae 10%,#532fff 30%);
+    background: radial-gradient(circle at 70%,#328dfd 10%,#2ed3c4 30%);;
     background-size: 400% 400%;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
